@@ -1,6 +1,6 @@
 ﻿# ACL Demo - Cisco Course
 
-## **Objetivos**
+## Ejercicio realizado con Packet Tracer de Cisco para demostrar la conectividad de ACL
 
 ### Parte 1: Verificar la conectividad local y probar la lista de control de acceso
 ### Haga ping a los dispositivos de la red local para verificar la conectividad
