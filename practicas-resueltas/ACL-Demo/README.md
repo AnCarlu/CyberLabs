@@ -7,5 +7,5 @@
 
 Para ello lo primero que hago es mirar la IP de cada dispositivos con ipconfig para luego hacer ping entre ellos y comprobar 
 la conectividad del ACL
-![Conectividad a partir de ping](CyberLabs/docs/Ejercicio_6_2_1.jpg)
+![Conectividad a partir de ping](../../docs/Ejercicio_6_2_1.jpg)
 ### Parte 2: Eliminar la lista de control de acceso y repetir la prueba
