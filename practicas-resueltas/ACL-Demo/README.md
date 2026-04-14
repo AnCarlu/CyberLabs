@@ -16,5 +16,6 @@ Vuelvo a hacer ping, esta vez desde el PC4. La conexión falla. Investigando me 
 ### Parte 2: Eliminar la lista de control de acceso y repetir la prueba
 
 Para ello primero entro la modo privilegiado con "enable" y al modo configuracion global con "configuracion terminal"
-Despues entro en la intefaz serial 0/0/0 y quito la lista
+Despues entro en la intefaz serial 0/0/0 y quito la lista.
+Ahora se puede comprpnar que se puede hacer ping desde el PC1 al PC4
 ![Eliminacion de ACL](../../docs/Ejercicio_6_2_1_2.jpg)
